@@ -1,2 +1,2 @@
-# Bellabeat Kaggle Capstone Project BELLABEAT
-# install necessary libraries for colab: "janitor","plotly" and "DT"
+# Bellabeat Kaggle Capstone Project BELLABEAT, saved on google drive (https://colab.research.google.com/drive/1SeOJrTxEwFkn_4kWhBHmz8RLCXCGwilu?usp=sharing)
+# install necessary libraries for using with google colab: "janitor","plotly" and "DT"
